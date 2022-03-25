@@ -43,7 +43,7 @@ Thats really it for git source control!
 - - -
 
 <h1>Geopandas Installation on Windows Fix
-</h1>Due to pip not having the Fiona, GDAL, and other .whl binaries in the dependencies on Windows we must download and install them manually. I followed <a href="https://iotespresso.com/how-to-install-geopandas-on-windows/" target="_blank">this guide</a> myself if you'd like to check it out.
+</h1>Due to pip not having the Fiona, GDAL, and other .whl binaries in the dependencies for Windows we must download and install them manually. I followed <a href="https://iotespresso.com/how-to-install-geopandas-on-windows/" target="_blank">this guide</a> myself if you'd like to check it out.
 The first thing to do is go to <a href="https://www.lfd.uci.edu/~gohlke/pythonlibs/" target="_blank">Christoph Gohlke</a>'s website of dependency binaries for Windows. On this website the binaries for your particular version of Python and your computers architecture (most computers nowadays are 64 bit).
 For example:
 
