@@ -37,7 +37,7 @@ For further reference I followed <a href="https://dev.to/aka_anoop/enabling-virt
 
 <h1>Using Git with VS Code
 </h1>I just followed <a href="https://www.youtube.com/watch?v=F2DBSH2VoHQ" target="_blank">this YouTube tutorial</a> to learn about it, I found it very thorough!
-Basically on the left hand side of VS Code, third button down is \\\*\\\*Source Control\\\*\\\*, this is where you can create, connect to, push, pull etc to a git repo! This section also tracks all the file changes where they can be reverted, viewed, or commited.
+Basically on the left hand side of VS Code, third button down is **Source Control**, this is where you can create, connect to, push, pull etc to a git repo! This section also tracks all the file changes where they can be reverted, viewed, or commited.
 Thats really it for git source control!
 
 - - -
@@ -50,15 +50,15 @@ For example:
 ```
 PC: 64 bit
 Python: v3.10
-Download: Fiona-1.8.21-cp310-cp310-win\_amd64.whl
+Download: Fiona-1.8.21-cp310-cp310-win_amd64.whl
 ```
 
 I have uploaded the binaries I use for my 64 bit machine running Python 3.10 in the /winDependencies folder in this repo.<br><br>
 Once the desired package binaries are downloaded, install them starting with GDAL using:
 
 ```
-pip install file/location/GDAL-3.4.2-cp310-cp310-win\_amd64.whl
-pip install file/location/Fiona-1.8.21-cp310-cp310-win\_amd64.whl
+pip install file/location/GDAL-3.4.2-cp310-cp310-win_amd64.whl
+pip install file/location/Fiona-1.8.21-cp310-cp310-win_amd64.whl
 ```
 
 (remember to run this in your virtual environemnt if you are using one)
