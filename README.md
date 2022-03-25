@@ -63,7 +63,7 @@ pip install file/location/GDAL-3.4.2-cp310-cp310-win\_amd64.whl
 pip install file/location/Fiona-1.8.21-cp310-cp310-win\_amd64.whl
 ```
 
-(Remember to run this in your virtual environemnt if you are using one)
+(remember to run this in your virtual environemnt if you are using one)
 
 Geopandas should now install properly!
 
