@@ -39,7 +39,7 @@ For further reference I followed <a href="https://dev.to/aka_anoop/enabling-virt
 <h1>Using Git with VS Code
 </h1>I just followed <a href="https://www.youtube.com/watch?v=F2DBSH2VoHQ" target="_blank">this YouTube tutorial</a> to learn about it, I found it very thorough!
 
-Basically on the left hand side of VS Code, third button down is **Source Control**, this is where you can create, connect to, push, pull etc to a git repo! This ection also tracks all the file changes where they can be reverted, viewd, or commited.
+Basically on the left hand side of VS Code, third button down is **Source Control**, this is where you can create, connect to, push, pull etc to a git repo! This section also tracks all the file changes where they can be reverted, viewd, or commited.
 
 <br>
 Thats really it for git source control!
