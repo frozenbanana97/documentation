@@ -1,5 +1,5 @@
 <h1>Starting a New VS Code Project with a Virtual Environment Using PowerShell
-</h1>Note this guide assumes you have Git, VS Code, and the Python extension for VS Code installed
+</h1><br>Note this guide assumes you have Git, VS Code, and the Python extension for VS Code installed
 I'm working on embedding helpful images, but for now you an see them in the imgs folder in this repo.
 <h3>Step 1
 </h3>First you'll want to open a file, folder, or Git repo that you'll be working in.
