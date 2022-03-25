@@ -1,0 +1,21 @@
+{
+  "name": "",
+  "isOrdered": true,
+  "folders": {
+    "imgs": {
+      "name": "imgs",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "noteFiles": {
+      "name": "noteFiles",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    }
+  },
+  "files": {
+    "README": 0
+  }
+}
