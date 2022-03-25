@@ -53,7 +53,8 @@ Python: v3.10
 Download: Fiona-1.8.21-cp310-cp310-win_amd64.whl
 ```
 
-I have uploaded the binaries I use for my 64 bit machine running Python 3.10 in the /winDependencies folder in this repo.<br><br>
+I have uploaded the binaries I use for my 64 bit machine running Python 3.10 in the /winDependencies folder in this repo.
+
 Once the desired package binaries are downloaded, install them starting with GDAL using:
 
 ```
