@@ -92,7 +92,7 @@ git config --global user.email
 ```
 <br>
 ### Create a new project/repository on Github
-
+<br>
 Github will generate a link to the repository, In your new repository, you will find an HTTPS link. Run inside workspace folder (ex directory/) to clone repository/project
 
 ```
