@@ -90,8 +90,7 @@ check both:
 git config --global user.name
 git config --global user.email
 ```
-<br>
-<br>
+
 ### Create a new project/repository on Github
 <br>
 Github will generate a link to the repository, In your new repository, you will find an HTTPS link. Run inside workspace folder (ex directory/) to clone repository/project
@@ -99,7 +98,7 @@ Github will generate a link to the repository, In your new repository, you will 
 ```
 git clone [paste link] folder_name
 ```
-<br>
+
 ### Creating a virtual environment using venv (py 3.3+)
 <br>
 Use py, py3, python or python3 depending on Python installation.
@@ -125,9 +124,8 @@ Deactivate/exit the venv with
 ```
 deactivate
 ```
-<br>
+
 ### Installing Packages
-<br>
 Install all packages (jupyterlab for example)
 
 ```
