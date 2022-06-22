@@ -1,3 +1,9 @@
+# Contents
+<br>
+* [Starting a Project](#Starting a New VS Code Project with a Virtual Environment Using PowerShell)
+  * [Using Git with VS Code](#Using-Git-with-VS-Code)
+<br>
+
 # Starting a New VS Code Project with a Virtual Environment Using PowerShell
 <br>
 Note this guide assumes you have Git, VS Code, and the Python extension for VS Code installed. I'm working on embedding helpful images, but for now you an see them in the imgs folder in this repo.<br>
