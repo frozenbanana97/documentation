@@ -175,6 +175,6 @@ Commit the changes and add a message for the commit within ' ' marks.
 git commit -m 'add jupyter notebook, pip requirements and modify readme'
 ```
 
--m adds a mesage within the ' ' appended to the commit. The commit will commit everything that was added.<br>
-Adding many resources at once may be deemed bad-practice, makes it harder to revert to certain versions of code.<br>
+-m adds a mesage within the ' ' appended to the commit. The commit will commit everything that was added.
+Adding many resources at once may be deemed bad-practice, makes it harder to revert to certain versions of code.
 Also see https:[git-scm.com/docs/git-commit](http://git-scm.com/docs/git-commit) for documentation on git comitting
