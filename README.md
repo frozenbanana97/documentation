@@ -1,7 +1,6 @@
 # Contents
 <br>
-* [Starting a Project](#Starting a New VS Code Project with a Virtual Environment Using PowerShell)
-  * [Using Git with VS Code](#Using-Git-with-VS-Code)
+[TOC]
 <br>
 
 # Starting a New VS Code Project with a Virtual Environment Using PowerShell
