@@ -1,5 +1,5 @@
 # Contents
-<br>
+
 - [Contents](#contents)
 - [Starting a New VS Code Project with a Virtual Environment Using PowerShell](#starting-a-new-vs-code-project-with-a-virtual-environment-using-powershell)
     - [Step 1](#step-1)
