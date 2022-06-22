@@ -1,5 +1,5 @@
-<h1>Starting a New VS Code Project with a Virtual Environment Using PowerShell</h1>
-Note this guide assumes you have Git, VS Code, and the Python extension for VS Code installed.<br>
+<h1>Starting a New VS Code Project with a Virtual Environment Using PowerShell
+</h1>Note this guide assumes you have Git, VS Code, and the Python extension for VS Code installed.
 I'm working on embedding helpful images, but for now you an see them in the imgs folder in this repo.
 <h3>Step 1
 </h3>First you'll want to open a file, folder, or Git repo that you'll be working in.
@@ -68,5 +68,113 @@ Geopandas should now install properly!
 
 - - -
 
+# General Workspace Setup
+
+### Setting Up Git
 <br>
+Set a Git username:
+
+```
+git config --global user.name "Mona Lisa"
+```
+
+Set a Git email:
+
+```
+git config --global user.email "[email@example.com](mailto:email@example.com)"
+```
+
+check both:
+
+```
+git config --global user.name
+git config --global user.email
+```
 <br>
+### Create a new project/repository on Github
+
+Github will generate a link to the repository, In your new repository, you will find an HTTPS link. Run inside workspace folder (ex directory/) to clone repository/project
+
+```
+git clone [paste link] folder_name
+```
+<br>
+### Creating a virtual environment using venv (py 3.3+)
+
+Use py, py3, python or python3 depending on Python installation.
+<br>
+```
+py -m venv venvName
+```
+
+Start the venv
+
+```
+. venvName/Scripts/activate
+```
+
+OR (depending on OS & installation)
+
+```
+. venvName/bin/activate
+```
+
+Deactivate/exit the venv with
+
+```
+deactivate
+```
+<br>
+### Installing Packages
+
+Install all packages (jupyterlab for example)
+<br>
+```
+pip install jupyterlab
+```
+
+Install a requirements list of packages:
+
+```
+pip install -r requirements.txt
+```
+
+Save all installed packages to a list:
+<br>
+```
+pip freeze > requirements.txt
+```
+
+### Start JupyterLab locally
+
+Run this to launch Jupyter lab in a web browser, hosted locally.
+
+```
+jupyter-lab
+```
+
+### Sharing to Github
+
+Make sure that the requirements.txt file is in your git repo
+
+Check status of current verison history
+
+```
+git status
+```
+
+Add items to the repo
+<br>
+```
+git add folder_name.ipynb requirements.txt README.md
+```
+
+Commit the changes and add a message for the commit within ' ' marks.
+
+```
+git commit -m 'add jupyter notebook, pip requirements and modify readme'
+```
+
+-m adds a mesage within the ' ' appended to the commit. The commit will commit everything that was added.
+Adding many resources at once may be deemed bad-practice, makes it harder to revert to certain versions of code.
+Also see https:#[git-scm.com/docs/git-commit](http://git-scm.com/docs/git-commit) for documentation on git comitting
