@@ -91,6 +91,7 @@ git config --global user.name
 git config --global user.email
 ```
 <br>
+<br>
 ### Create a new project/repository on Github
 <br>
 Github will generate a link to the repository, In your new repository, you will find an HTTPS link. Run inside workspace folder (ex directory/) to clone repository/project
@@ -146,7 +147,7 @@ pip freeze > requirements.txt
 ```
 
 ### Start JupyterLab locally
-
+<br>
 Run this to launch Jupyter lab in a web browser, hosted locally.
 
 ```
@@ -154,7 +155,7 @@ jupyter-lab
 ```
 
 ### Sharing to Github
-
+<br>
 Make sure that the requirements.txt file is in your git repo
 
 Check status of current verison history
