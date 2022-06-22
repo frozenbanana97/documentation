@@ -1,6 +1,21 @@
 # Contents
 <br>
-[TOC]
+- [Contents](#contents)
+- [Starting a New VS Code Project with a Virtual Environment Using PowerShell](#starting-a-new-vs-code-project-with-a-virtual-environment-using-powershell)
+    - [Step 1](#step-1)
+    - [Step 2](#step-2)
+    - [Step 3](#step-3)
+    - [Step 4](#step-4)
+    - [Step 5](#step-5)
+- [Using Git with VS Code](#using-git-with-vs-code)
+- [Geopandas Installation on Windows Fix](#geopandas-installation-on-windows-fix)
+- [General Workspace Setup](#general-workspace-setup)
+    - [Setting Up Git](#setting-up-git)
+    - [Create a new project/repository on Github](#create-a-new-projectrepository-on-github)
+    - [Creating a virtual environment using venv (py 3.3+)](#creating-a-virtual-environment-using-venv-py-33)
+    - [Installing Packages](#installing-packages)
+    - [Start JupyterLab locally](#start-jupyterlab-locally)
+    - [Sharing to Github](#sharing-to-github)
 <br>
 
 # Starting a New VS Code Project with a Virtual Environment Using PowerShell
