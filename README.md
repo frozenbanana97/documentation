@@ -1,4 +1,4 @@
-##### Starting a New VS Code Project with a Virtual Environment Using PowerShell
+# Starting a New VS Code Project with a Virtual Environment Using PowerShell
 <br>
 Note this guide assumes you have Git, VS Code, and the Python extension for VS Code installed. I'm working on embedding helpful images, but for now you an see them in the imgs folder in this repo.<br>
 
@@ -43,7 +43,7 @@ For further reference I followed <a href="https://dev.to/aka_anoop/enabling-virt
 
 - - -
 
-##### Using Git with VS Code
+# Using Git with VS Code
 <br>
 I just followed <a href="https://www.youtube.com/watch?v=F2DBSH2VoHQ" target="_blank">this YouTube tutorial</a> to learn about it, I found it very thorough!
 Basically on the left hand side of VS Code, third button down is Source Control, this is where you can create, connect to, push, pull etc to a git repo! This section also tracks all the file changes where they can be reverted, viewed, or commited.
@@ -51,7 +51,7 @@ Thats really it for git source control!
 
 - - -
 
-##### Geopandas Installation on Windows Fix
+# Geopandas Installation on Windows Fix
 <br>
 Due to pip not having the Fiona, GDAL, and other .whl binaries in the dependencies for Windows we must download and install them manually. I followed <a href="https://iotespresso.com/how-to-install-geopandas-on-windows/" target="_blank">this guide</a> myself if you'd like to check it out.<br>
 The first thing to do is go to <a href="https://www.lfd.uci.edu/~gohlke/pythonlibs/" target="_blank">Christoph Gohlke</a>'s website of dependency binaries for Windows. On this website the binaries for your particular version of Python and your computers architecture (most computers nowadays are 64 bit).
