@@ -1,0 +1,17 @@
+Python Download
+https://www.python.org/downloads/
+
+QGIS Download - Standalone (LTR or Latest)
+https://www.qgis.org/en/site/forusers/download.html
+
+VS Code (My preferred application for code)
+https://code.visualstudio.com/Download
+
+GIT Download - Optional, used for automatic downloading and updating the code. Recommended for more advanced users.
+https://git-scm.com/downloads
+
+Github Make Account
+https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home
+
+Repo
+https://github.com/frozenbanana97/capuchin_geoanalysis
